@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diaojingwang
-- 👀 I’m interested in Fast Radio Burst
+- 👀 I’m interested in SGWB
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :diaojingwang@163.com
